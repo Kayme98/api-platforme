@@ -20,14 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="226e87c5-418e-499e-ba00-f6856777dcf0" name="Default Changelist" comment="Merge branch 'serealization' into develop&#10;&#10;# Conflicts:&#10;#&#9;api/composer.json&#10;#&#9;api/composer.lock&#10;#&#9;api/config/bundles.php&#10;#&#9;api/src/DataFixtures/AppFixtures.php&#10;#&#9;api/src/Entity/Card.php&#10;#&#9;api/src/Entity/Comment.php&#10;#&#9;api/src/Entity/Product.php&#10;#&#9;api/src/Entity/User.php&#10;#&#9;api/symfony.lock">
-      <change afterPath="$PROJECT_DIR$/api/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/api-platform.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/api-platform.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/packages/api_platform.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/api/config/packages/api_platform.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,6 +204,7 @@
       <workItem from="1611069662921" duration="204000" />
       <workItem from="1611499340558" duration="6374000" />
       <workItem from="1611740869068" duration="209000" />
+      <workItem from="1611744286306" duration="706000" />
     </task>
     <servers />
   </component>
